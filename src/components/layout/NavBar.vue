@@ -16,7 +16,7 @@
                         <a class="nav-link" href="#about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#expart">Expart</a>
+                        <a class="nav-link" href="#expart">Expert</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#work">Work</a>
