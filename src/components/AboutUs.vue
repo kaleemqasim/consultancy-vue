@@ -19,7 +19,7 @@
                 </div>
                 <div class="col-lg-6 text-center">
                     <div data-aos="flip-left">
-                        <img src="images/About.jpg" class="img-fluid rounded " alt="">
+                        <img src="../assets/images/About.jpg" class="img-fluid rounded " alt="">
                     </div>
                 </div>
             </div>

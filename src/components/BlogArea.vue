@@ -16,7 +16,7 @@
                     <div data-aos="fade-right">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="images/blog1.jpg" class="img-fluid" alt="">
+                                <img src="../assets/images/blog1.jpg" class="img-fluid" alt="">
                             </div>
                             <p class="my-3 px-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
                             <p class="h3">Expart In World</p>
@@ -28,7 +28,7 @@
                     <div data-aos="zoom-in">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="images/blog2.jpg" class="img-fluid" alt="">
+                                <img src="../assets/images/blog2.jpg" class="img-fluid" alt="">
                             </div>
                             <p class="my-3 px-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
                             <p class="h3">Expart In England</p>
@@ -40,7 +40,7 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="images/blog3.jpg" class="img-fluid" alt="">
+                                <img src="../assets/images/blog3.jpg" class="img-fluid" alt="">
                             </div>
                             <p class="my-3 px-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
                             <p class="h3">Expart In Chaina</p>
@@ -53,7 +53,7 @@
                     <div data-aos="fade-right">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="images/blog4.jpg" class="img-fluid" alt="">
+                                <img src="../assets/images/blog4.jpg" class="img-fluid" alt="">
                             </div>
                             <p class="my-3 px-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
                             <p class="h3">Expart In Canada</p>
@@ -65,7 +65,7 @@
                     <div data-aos="zoom-in">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="images/blog5.jpg" class="img-fluid" alt="">
+                                <img src="../assets/images/blog5.jpg" class="img-fluid" alt="">
                             </div>
                             <p class="my-3 px-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
                             <p class="h3">Expart In Hongkong</p>
@@ -77,7 +77,7 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="images/blog6.jpg" class="img-fluid" alt="">
+                                <img src="../assets/images/blog6.jpg" class="img-fluid" alt="">
                             </div>
                             <p class="my-3 px-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
                             <p class="h3">Expart In America</p>

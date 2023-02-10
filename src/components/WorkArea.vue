@@ -16,57 +16,57 @@
                     <div class="row">
                         <div class="col-md-3 my-3">
                             <div data-aos="fade-right">
-                                <a data-fancybox="gallery" data-src="images/funchy1.jpg">
-                                    <img alt="" class="img-fluid rounded" src="images/funchy1.jpg" />
+                                <a data-fancybox="gallery" data-src="../assets/images/funchy1.jpg">
+                                    <img alt="" class="img-fluid rounded" src="../assets/images/funchy1.jpg" />
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-3 my-3">
                             <div data-aos="zoom-in">
-                                <a data-fancybox="gallery" data-src="images/funchy2.jpg">
-                                    <img alt="" class="img-fluid rounded" src="images/funchy2.jpg" />
+                                <a data-fancybox="gallery" data-src="../assets/images/funchy2.jpg">
+                                    <img alt="" class="img-fluid rounded" src="../assets/images/funchy2.jpg" />
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-3 my-3">
                             <div data-aos="zoom-in">
-                                <a data-fancybox="gallery" data-src="images/funchy3.jpg">
-                                    <img alt="" class="img-fluid rounded" src="images/funchy3.jpg" />
+                                <a data-fancybox="gallery" data-src="../assets/images/funchy3.jpg">
+                                    <img alt="" class="img-fluid rounded" src="../assets/images/funchy3.jpg" />
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-3 my-3">
                             <div data-aos="fade-left">
-                                <a data-fancybox="gallery" data-src="images/funchy4.jpg">
-                                    <img alt="" class="img-fluid rounded" src="images/funchy4.jpg" />
+                                <a data-fancybox="gallery" data-src="../assets/images/funchy4.jpg">
+                                    <img alt="" class="img-fluid rounded" src="../assets/images/funchy4.jpg" />
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-3 my-3">
                             <div data-aos="fade-right">
-                                <a data-fancybox="gallery" data-src="images/funchy5.jpg">
-                                    <img alt="" class="img-fluid rounded" src="images/funchy5.jpg" />
+                                <a data-fancybox="gallery" data-src="../assets/images/funchy5.jpg">
+                                    <img alt="" class="img-fluid rounded" src="../assets/images/funchy5.jpg" />
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-3 my-3">
                             <div data-aos="zoom-in">
-                                <a data-fancybox="gallery" data-src="images/funchy6.jpg">
-                                    <img alt="" class="img-fluid rounded" src="images/funchy6.jpg" />
+                                <a data-fancybox="gallery" data-src="../assets/images/funchy6.jpg">
+                                    <img alt="" class="img-fluid rounded" src="../assets/images/funchy6.jpg" />
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-3 my-3">
                             <div data-aos="zoom-in">
-                                <a data-fancybox="gallery" data-src="images/funchy7.jpg">
-                                    <img alt="" class="img-fluid rounded" src="images/funchy7.jpg" />
+                                <a data-fancybox="gallery" data-src="../assets/images/funchy7.jpg">
+                                    <img alt="" class="img-fluid rounded" src="../assets/images/funchy7.jpg" />
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-3 my-3">
                             <div data-aos="fade-left">
-                                <a data-fancybox="gallery" data-src="images/funchy8.jpg">
-                                    <img alt="" class="img-fluid rounded" src="images/funchy8.jpg" />
+                                <a data-fancybox="gallery" data-src="../assets/images/funchy8.jpg">
+                                    <img alt="" class="img-fluid rounded" src="../assets/images/funchy8.jpg" />
                                 </a>
                             </div>
                         </div>

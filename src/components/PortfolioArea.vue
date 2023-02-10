@@ -16,7 +16,7 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="images/blog5.jpg" class="img-fluid" alt="">
+                                <img src="../assets/images/blog5.jpg" class="img-fluid" alt="">
                             </div>
                             <p class="my-3 px-3">consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
                             <i class="fa-solid color-icon fa-star"></i>
@@ -33,7 +33,7 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="images/man-g8b50cf943_1920.jpg" class="img-fluid" alt="">
+                                <img src="../assets/images/man-g8b50cf943_1920.jpg" class="img-fluid" alt="">
                             </div>
                             <p class="my-3 px-3">consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
                             <i class="fa-solid color-icon fa-star"></i>
@@ -50,7 +50,7 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="images/man-gc4f5a9650_1920.jpg" class="img-fluid h-75" alt="">
+                                <img src="../assets/images/man-gc4f5a9650_1920.jpg" class="img-fluid h-75" alt="">
                             </div>
                             <p class="my-3 px-3">consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
                             <i class="fa-solid color-icon fa-star"></i>

@@ -47,7 +47,7 @@
             <div class="row my-5">
                 <div class="col-lg-6">
                     <div data-aos="zoom-in-left">
-                        <img src="images/funchy4.jpg" class="img-fluid rounded shadow-lg" alt="">
+                        <img src="../assets/images/funchy4.jpg" class="img-fluid rounded shadow-lg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 px-5">
@@ -112,14 +112,14 @@
                 </div>
                 <div class="col-lg-6">
                     <div data-aos="zoom-in-left">
-                        <img src="images/Serv-2.jpg" class="img-fluid rounded shadow-lg" alt="">
+                        <img src="../assets/images/Serv-2.jpg" class="img-fluid rounded shadow-lg" alt="">
                     </div>
                 </div>
             </div>
             <div class="row mt-5 py-5">
                 <div class="col-lg-6">
                     <div data-aos="zoom-in-left">
-                        <img src="images/Serv-1.jpg" class="img-fluid rounded shadow-lg" alt="">
+                        <img src="../assets/images/Serv-1.jpg" class="img-fluid rounded shadow-lg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 px-5">
