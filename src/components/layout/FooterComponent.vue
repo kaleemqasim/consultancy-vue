@@ -5,14 +5,15 @@
                 <div class="row">
                     <div class="col-lg-5">
                         <a class="navbar-brand" href="#">
-                            <span class="h2 fw-bold text-dark">Consults <i class="h4">Buisness</i></span>
+                            <span class="h2 fw-bold text-dark">LikeIt <i class="h4">Consultancy</i></span>
                         </a>
-                        <p class="h6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus, laborum, sint! Laborum, temporibus a sit!</p>
+                        <p class="h6">You take it to another level!</p>
+                        <p class="h6">Phone: 0496778597</p>
                         <div class="icon-one my-4">
-                            <i class="fa-brands m-0 ic-one fa-facebook"></i>
-                            <i class="fa-brands ic-one fa-twitter"></i>
-                            <i class="fa-brands ic-one fa-discord"></i>
-                            <i class="fa-brands ic-one fa-instagram"></i>
+                            <a target="_blank" href="https://www.facebook.com/mouad.lahmouri"><i class="fa-brands m-0 ic-one fa-facebook"></i></a>
+                            <a target="_blank" href="https://www.linkedin.com/in/mouad-lahmouri-40a667122/"><i class="fa-brands ic-one fa-linkedin"></i></a>
+                            <a target="_blank" href="mailto: contact@like-it.be"><i class="fa-brands ic-one fa-at"></i></a>
+                            <!-- <a target="_blank" href="tel: +0496778597"><i class="fa-brands ic-one fa-phone-flip"></i></a> -->
                         </div>
                     </div>
                     <div class="col-lg-7">
@@ -70,7 +71,7 @@
                     <hr>
                     
                     <div class="col-lg-12 text-center">
-                        <p class="">All Rights Reserved © 2022 Consults Bussiness  </p>
+                        <p class="">All Rights Reserved © 2022 LikeIt Consultancy  </p>
                     </div>
                 </div>
 

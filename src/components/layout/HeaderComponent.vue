@@ -7,8 +7,8 @@
                         <p class="display-3 fw-bold text-white"> We are happy to build  </p>
                         <p class="display-5 fw-bold text-white"> Your Best <i class="text-success">Business</i></p>
                     </div>
-                    <p class="text-white my-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, magni iure nostrum voluptate dolore iste.</p>
-                    <p class="h2 fw-bold btn btn-success btn-one px-5 py-2">Get Visite Naw</p>
+                    <p class="text-white my-5">Like it Empowering your business with innovative solutions. You take it to another level!.</p>
+                    <a href="#contact"><p class="h2 fw-bold btn btn-success btn-one px-5 py-2">Contact Now</p></a>
                 </div>
             </div>
         </div>

@@ -7,7 +7,7 @@
                         <p class="h5 text-success my-3">Start Your Work</p>
                         <p class="h1">WORK NOW</p>
                         <hr class="hr-one m-0 mx-auto">
-                        <p class="my-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, error! Vel deleniti nemo qui consequatur.</p>
+                        <p class="my-3">Get your work done with ease and efficiency using LikeIT</p>
                     </div>
                 </div>
             </div>

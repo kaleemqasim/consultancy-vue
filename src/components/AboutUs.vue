@@ -7,13 +7,13 @@
                         <p class="h5 text-success my-3">Start Your About</p>
                         <p class="h1">ABOUT US</p>
                         <hr class="hr-one m-0">
-                        <p class="lh-lg mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione fugit nesciunt voluptate quos, recusandae dolore adipisci distinctio eaque, mollitia ipsam. Ex inventore, pariatur, expedita laboriosam doloribus saepe deserunt corporis odio?</p>
+                        <p class="lh-lg mt-4">Projects can be challenging! We stand ready to lighten this burden. we take on a professional way the interests of our clients. Providing them with capabilities, adaptability and scalability. Since 2019 we have been serving loyal customers in Brussels and the surrounding area. Contact us today to start taking advantage of our services.</p>
                         <a href="#">
-                            <p class="h3 text-success">We Am Largest Business Expert</p>
+                            <p class="h3 text-success">We assure a quality product</p>
                         </a>
-                        <a href="#">
+                        <!-- <a href="#">
                             <p class="h3 text-success"> In America</p>
-                        </a>
+                        </a> -->
                         <p class="h3 fw-bold btn btn-success btn-one px-5 py-2 my-5">Read More</p>
                     </div>
                 </div>

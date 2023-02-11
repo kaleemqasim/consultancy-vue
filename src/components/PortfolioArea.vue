@@ -4,10 +4,10 @@
             <div class="row">
                 <div class="col-lg-8 text-center mx-auto">
                     <div data-aos="zoom-in">
-                        <p class="h5 text-success my-3">Personal Portfilio </p>
-                        <p class="h1">PORTFOLIO</p>
+                        <p class="h5 text-success my-3">Past and Current </p>
+                        <p class="h1">CUSTOMERS</p>
                         <hr class="hr-one m-0 mx-auto">
-                        <p class="my-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, error! Vel deleniti nemo qui consequatur.</p>
+                        <p class="my-3">Our customers are at the heart of everything we do. We are committed to providing exceptional service and delivering results that exceed your expectations.</p>
                     </div>
                 </div>
             </div>
@@ -16,16 +16,16 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="../assets/images/blog5.jpg" class="img-fluid" alt="">
+                                <img src="../assets/images2/ing-logo-full.svg" class="img-fluid" alt="">
                             </div>
-                            <p class="my-3 px-3">consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
-                            <i class="fa-solid color-icon fa-star"></i>
+                            <p class="my-3 px-3">The ING Group is a Dutch multinational banking and financial services corporation</p>
+                            <!-- <i class="fa-solid color-icon fa-star"></i>
                             <i class="fa-solid color-icon fa-star"></i>
                             <i class="fa-solid color-icon fa-star"></i>
                             <i class="fa-solid color-icon mb-2 fa-star"></i>
-                            <i class="fa-regular fa-star"></i>
-                            <p class="h3">I Am Jon Lio</p>
-                            <p class="h2 fw-bold btn btn-success btn-one btn-style px-5 py-2 my-4">More Lio</p>
+                            <i class="fa-regular fa-star"></i> -->
+                            <p class="h3">ING</p>
+                            <p class="h2 fw-bold btn btn-success btn-one btn-style px-5 py-2 my-4">Visit Link</p>
                         </div>
                     </div>
                 </div>
@@ -33,16 +33,16 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="../assets/images/man-g8b50cf943_1920.jpg" class="img-fluid" alt="">
+                                <img src="../assets/images2/portal_partena_pos_rgb.png" class="img-fluid" alt="">
                             </div>
-                            <p class="my-3 px-3">consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
-                            <i class="fa-solid color-icon fa-star"></i>
+                            <p class="my-3 px-3">Optimization in payroll, personnel administration and social legal issues</p>
+                            <!-- <i class="fa-solid color-icon fa-star"></i>
                             <i class="fa-solid color-icon fa-star"></i>
                             <i class="fa-solid color-icon mb-2 fa-star"></i>
                             <i class="fa-regular fa-star"></i>
-                            <i class="fa-regular fa-star"></i>
-                            <p class="h3">I Am Diko Miya</p>
-                            <p class="h2 fw-bold btn btn-success btn-one btn-style px-5 py-2 my-4">More Miya</p>
+                            <i class="fa-regular fa-star"></i> -->
+                            <p class="h3">PARTENA PROFESSIONAL</p>
+                            <p class="h2 fw-bold btn btn-success btn-one btn-style px-5 py-2 my-4">Visit Link</p>
                         </div>
                     </div>
                 </div>
@@ -50,16 +50,50 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="../assets/images/man-gc4f5a9650_1920.jpg" class="img-fluid h-75" alt="">
+                                <img src="../assets/images2/delhaizelogo.webp" class="img-fluid h-75" alt="">
                             </div>
-                            <p class="my-3 px-3">consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
-                            <i class="fa-solid color-icon fa-star"></i>
+                            <p class="my-3 px-3">Delhaize is one of the world's largest food retail groups</p>
+                            <!-- <i class="fa-solid color-icon fa-star"></i>
                             <i class="fa-solid color-icon mb-2 fa-star"></i>
                             <i class="fa-solid color-icon fa-star"></i>
                             <i class="fa-solid color-icon fa-star"></i>
-                            <i class="fa-regular fa-star"></i>
-                            <p class="h3">I Am Criss Deo</p>
-                            <p class="h2 fw-bold btn btn-success btn-one btn-style px-5 py-2 my-4">More Deo</p>
+                            <i class="fa-regular fa-star"></i> -->
+                            <p class="h3">DELHAIZE</p>
+                            <p class="h2 fw-bold btn btn-success btn-one btn-style px-5 py-2 my-4">Visit Link</p>
+                        </div>
+                    </div>
+                </div>
+                <div style="visibility:hidden" class="col-lg-4 my-5">
+                    <div data-aos="fade-left">
+                        <div class="t-card text-center">
+                            <div class="img-box">
+                                <img src="../assets/images2/delhaizelogo.webp" class="img-fluid h-75" alt="">
+                            </div>
+                            <p class="my-3 px-3">consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
+                            <!-- <i class="fa-solid color-icon fa-star"></i>
+                            <i class="fa-solid color-icon mb-2 fa-star"></i>
+                            <i class="fa-solid color-icon fa-star"></i>
+                            <i class="fa-solid color-icon fa-star"></i>
+                            <i class="fa-regular fa-star"></i> -->
+                            <p class="h3">DELHAIZE</p>
+                            <p class="h2 fw-bold btn btn-success btn-one btn-style px-5 py-2 my-4">Visit Link</p>
+                        </div>
+                    </div>
+                </div>
+                <div style="visibility:none" class="col-lg-4 my-5">
+                    <div data-aos="fade-left">
+                        <div class="t-card text-center">
+                            <div class="img-box">
+                                <img src="../assets/images2/bit4you.png" class="img-fluid h-75" alt="">
+                            </div>
+                            <p class="my-3 px-3">Buy, sell and stake over a hundred cryptocurrencies easily</p>
+                            <!-- <i class="fa-solid color-icon fa-star"></i>
+                            <i class="fa-solid color-icon mb-2 fa-star"></i>
+                            <i class="fa-solid color-icon fa-star"></i>
+                            <i class="fa-solid color-icon fa-star"></i>
+                            <i class="fa-regular fa-star"></i> -->
+                            <p class="h3">B4Y</p>
+                            <p class="h2 fw-bold btn btn-success btn-one btn-style px-5 py-2 my-4">Visit Link</p>
                         </div>
                     </div>
                 </div>

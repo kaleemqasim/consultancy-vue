@@ -7,7 +7,7 @@
                         <p class="h5 text-success my-3">Contact Area</p>
                         <p class="h1">CONTACT</p>
                         <hr class="hr-one m-0 mx-auto">
-                        <p class="my-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, error! Vel deleniti nemo qui consequatur.</p>
+                        <p class="my-3">Need assistance or have a question? Contact us and experience the power of outstanding customer service. Our friendly and knowledgeable team is here to help you every step of the way.</p>
                     </div>
                 </div>
             </div>

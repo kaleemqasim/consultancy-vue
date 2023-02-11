@@ -164,6 +164,7 @@ a {
 
 .blog .t-card .img-box {
     overflow: hidden;
+    height:200px
 }
 
 .blog .t-card img {
