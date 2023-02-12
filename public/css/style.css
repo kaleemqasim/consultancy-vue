@@ -94,7 +94,7 @@ a {
 .header{
     padding-top: 200px;
     padding-bottom: 100px;
-    background: rgba(0, 0, 0, 0.68) url(../images2/backgroundimg.jpg);
+    background: rgba(0, 0, 0, 0.68) url(../images/backgroundimg.jpg);
     background-blend-mode: overlay;
     background-position: center;
     background-size: cover;

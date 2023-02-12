@@ -16,7 +16,7 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="../assets/images2/ing-logo-full.svg" class="img-fluid" alt="">
+                                <img src="../assets/images/ing-logo-full.svg" class="img-fluid" alt="">
                             </div>
                             <p class="my-3 px-3">The ING Group is a Dutch multinational banking and financial services corporation</p>
                             <!-- <i class="fa-solid color-icon fa-star"></i>
@@ -33,7 +33,7 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="../assets/images2/portal_partena_pos_rgb.png" class="img-fluid" alt="">
+                                <img src="../assets/images/portal_partena_pos_rgb.png" class="img-fluid" alt="">
                             </div>
                             <p class="my-3 px-3">Optimization in payroll, personnel administration and social legal issues</p>
                             <!-- <i class="fa-solid color-icon fa-star"></i>
@@ -50,7 +50,7 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="../assets/images2/delhaizelogo.webp" class="img-fluid h-75" alt="">
+                                <img src="../assets/images/delhaizelogo.webp" class="img-fluid h-75" alt="">
                             </div>
                             <p class="my-3 px-3">Delhaize is one of the world's largest food retail groups</p>
                             <!-- <i class="fa-solid color-icon fa-star"></i>
@@ -67,7 +67,7 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="../assets/images2/delhaizelogo.webp" class="img-fluid h-75" alt="">
+                                <img src="../assets/images/delhaizelogo.webp" class="img-fluid h-75" alt="">
                             </div>
                             <p class="my-3 px-3">consectetur adipisicing elit. Est, vero molestiae dolorem.</p>
                             <!-- <i class="fa-solid color-icon fa-star"></i>
@@ -84,7 +84,7 @@
                     <div data-aos="fade-left">
                         <div class="t-card text-center">
                             <div class="img-box">
-                                <img src="../assets/images2/bit4you.png" class="img-fluid h-75" alt="">
+                                <img src="../assets/images/bit4you.png" class="img-fluid h-75" alt="">
                             </div>
                             <p class="my-3 px-3">Buy, sell and stake over a hundred cryptocurrencies easily</p>
                             <!-- <i class="fa-solid color-icon fa-star"></i>
