@@ -98,14 +98,14 @@
                     </div>
                 </div>
             </div>
-            <div class="row text-center">
+            <!-- <div class="row text-center">
                 <div class="col-lg-8 mx-auto">
                     <div data-aos="zoom-in">
                         <i class="fa-brands icons-ss mt-5 fa-creative-commons-nd"></i>
                         <p class=" my-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero facilis, voluptatibus. Esse ullam ab, porro vitae voluptas ipsa cumque recusandae?</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 </template>
